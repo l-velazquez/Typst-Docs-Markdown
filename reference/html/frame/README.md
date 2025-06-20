@@ -1,0 +1,27 @@
+
+# frame
+
+```
+html.frame(
+    content
+) -> content
+```
+An element that lays out its content as an inline SVG.
+
+Sometimes, converting Typst content to HTML is not desirable. This can
+be the case for plots and other content that relies on positioning and
+styling to convey its message.
+
+This function allows you to use the Typst layout engine that would also
+be used for PDF, SVG, and PNG export to render a part of your document
+exactly how it would appear when exported in one of these formats. It
+embeds the content as an inline SVG.
+
+
+### Parameters
+
+
+### body: content | _required_ _positional_
+
+The content that shall be laid out.
+
