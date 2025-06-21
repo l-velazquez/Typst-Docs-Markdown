@@ -1,9 +1,11 @@
+<div align="center">
 <table>
 <tr>
 <td><h1>Typst Markdown Documentation</h1></td>
 <td><img src="idTmyHzBar_logos.jpeg" alt="logo" height="60"></td>
 </tr>
 </table>
+</div>
 
 Welcome to Typst's documentation! Typst is a new markup-based
 typesetting system for the sciences. It is designed to be an alternative
