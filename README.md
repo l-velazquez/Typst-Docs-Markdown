@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td><h1>Typst Markdown Documentation</h1></td>
-<td><img src="idTmyHzBar_logos.jpeg" alt="logo" height="60"></td>
+<td><img src="assets/idTmyHzBar_logos.jpeg" alt="logo" height="60"></td>
 </tr>
 </table>
 </div>
